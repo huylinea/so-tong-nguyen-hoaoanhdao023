@@ -1,9 +1,27 @@
 {
-  "name": "@daominhhiep/tea-xyz-quest",
-  "version": "1.0.0",
-  "description": "Quest for tea.xyz",
+  "name": "so-tong-nguyen-hoaoanhdao023",
+  "version": "1.0.3",
+  "description": "hoaoanhdao023",
   "main": "index.js",
-  "author": "@daominhhiep",
-  "repository": "https://github.com/daominhhiep/tea-xyz-quest.git",
-  "license": "ISC"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huylinea/so-tong-nguyen-hoaoanhdao023.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "hoaoanhdao023",
+  "license": "ISC",
+  "dependencies": {
+    "@lananhxcnm130/lananh-async-storage": "0.0.1",
+    "tinhdv-face-api.js": "0.22.5",
+    "timsolonnhat-hoaoanhdao023": "1.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/huylinea/so-tong-nguyen-hoaoanhdao023/issues"
+  },
+  "homepage": "https://github.com/huylinea/so-tong-nguyen-hoaoanhdao023#readme"
 }
